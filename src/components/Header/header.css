@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 10rem;
+}
+
+.header-menu {
+    color: white;
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+
+.header-menu > li:hover {
+    cursor: pointer;
+    color: var(--orange);
+}

@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Hero from "./components/Hero/hero";
 
 function App() {
   return (
-    <div>Home</div>
-  );
+    <div className="App">
+      <Hero/>
+    </div>
+    );
 }
 
 export default App;
