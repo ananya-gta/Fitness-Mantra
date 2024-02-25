@@ -3,8 +3,6 @@ import "./hero.css";
 import Header from "../Header/Header";
 import hero_image from "../../assets/hero_image.png"
 import hero_image_bg from "../../assets/hero_image_back.png"
-import HEART from "../../assets/heart.png"
-import CALORIES from "../../assets/calories.png"
 
 const Hero = () => {
   return (
