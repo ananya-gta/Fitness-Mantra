@@ -11,5 +11,4 @@ root.render(
   </React.StrictMode>
 );
 
-// If you want to start measuring peA-vitals
 reportWebVitals();
