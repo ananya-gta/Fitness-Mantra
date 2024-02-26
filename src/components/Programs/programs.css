@@ -30,6 +30,7 @@
     gap: 1rem;
     color: white;
     justify-content: space-between;
+    width: 25%;
 }
 
 .category>:nth-child(1){
