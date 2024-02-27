@@ -6,7 +6,7 @@ import hero_image_bg from "../../assets/hero_image_back.png"
 
 const Hero = () => {
   return (
-    <div className="hero">
+    <div className="hero" id="home">
       {/* Left Side of the hero Section */}
       <div className="left">
         <Header />

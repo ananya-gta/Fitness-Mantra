@@ -14,8 +14,12 @@
     gap: 2rem;
 }
 
+.header-menu > li>a {
+    color: white;
+    text-decoration: none;
+}
 
-.header-menu > li:hover {
+.header-menu > li>a:hover {
     cursor: pointer;
     color: var(--orange);
 }

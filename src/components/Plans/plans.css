@@ -1,0 +1,72 @@
+.plans-container {
+  margin-top: -4rem;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  position: relative;
+}
+
+.plans-cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.plan {
+  display: flex;
+  flex-direction: column;
+  background: #656565;
+  width: 15rem;
+  color: white;
+  gap: 2rem;
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.plan:hover {
+  background: var(--planCard);
+  transform: scale(1.1);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+  font-size: 1rem;
+}
+
+.plan > svg {
+  fill: var(--orange);
+  width: 2rem;
+  height: 2rem;
+}
+
+.plan > :nth-child(2) {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.plan > :nth-child(3) {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.plan > :nth-child(4) {
+}
+
+.plan > :nth-child(6) {
+  font-size: 0.8rem;
+}
+
+.features {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.feature > img {
+  width: 1rem;
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import "./programs.css";
+import "../Programs/programs.css";
 import { programsData } from "../../data/programsData";
 import RIGHTARROW from "../../assets/rightArrow.png";
 
