@@ -5,21 +5,17 @@ import image3 from "../assets/t-image3.jpg";
 export const testimonialsData = [
   {
     image: image1,
-    review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+    review: "Joining Fitness Mantra has been a life-changing decision for me. The personalized training programs and supportive community have motivated me to push my limits and achieve fitness goals I never thought possible. I'm grateful for the dedicated trainers who guide me every step of the way!",
+    name: 'CHRIS BUMSTED'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: "Fitness Mantra isn't just a gym; it's a family. I felt welcomed and encouraged to be my best self. The diverse range of classes and state-of-the-art equipment make every workout enjoyable and effective. Joining Fitness Mantra has truly transformed my fitness journey for the better!",
+    name: 'JOHN KEVIN'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
-    status: "CUSTOMER"
+    review:"Choosing Fitness Mantra was one of the best decisions I've ever made. Whether it's achieving weight loss goals or improving strength and flexibility, Fitness Mantra provides the resources and support needed to succeed. I highly recommend joining this fitness community!",
+    name: 'FRANKLIN'
   }
 ];

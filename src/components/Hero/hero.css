@@ -138,3 +138,9 @@
   top: 2rem;
   width: 15rem;
 }
+
+.hero-blur {
+  width: 22rem;
+  height: 30rem;
+  left: 0;
+}
