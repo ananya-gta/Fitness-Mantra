@@ -4,6 +4,9 @@ import Plans from "./components/Plans/Plans";
 // import JoinUs from "./components/JoinUs/JoinUs";
 import Programs from "./components/Programs/Programs";
 import Reasons from "./components/Reasons/Reasons";
+import Testimonials from "./components/Testimonials/Testimonials";
+import Footer from './components/Footer/Footer';
+import Join from "./components/Join/Join";
 
 function App() {
   return (
@@ -11,7 +14,10 @@ function App() {
       <Hero />
       <Programs />
       <Reasons />
-      <Plans/>
+      <Plans />
+      <Testimonials />
+      <Join />
+      <Footer/>
     </div>
   );
 }

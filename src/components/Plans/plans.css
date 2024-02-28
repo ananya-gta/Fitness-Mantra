@@ -3,7 +3,7 @@
   padding: 0 2rem;
   display: flex;
   flex-direction: column;
-  gap: 4rem;
+  gap: 3rem;
   position: relative;
 }
 
@@ -20,7 +20,7 @@
   background: #656565;
   width: 15rem;
   color: white;
-  gap: 2rem;
+  gap: 1.5rem;
   padding: 1.5rem;
   transition: transform 0.3s ease;
 }
@@ -30,6 +30,12 @@
   transform: scale(1.1);
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
   font-size: 1rem;
+  svg {
+    fill: white;
+  }
+  button {
+    color: var(--orange);
+  }
 }
 
 .plan > svg {
@@ -39,16 +45,18 @@
 }
 
 .plan > :nth-child(2) {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
 .plan > :nth-child(3) {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
 .plan > :nth-child(4) {
+  font-style: italic;
+  font-size: 1rem;
 }
 
 .plan > :nth-child(6) {
@@ -59,6 +67,7 @@
   display: flex;
   gap: 1rem;
   flex-direction: column;
+  margin-top: -1rem;
 }
 
 .feature {
@@ -70,3 +79,5 @@
 .feature > img {
   width: 1rem;
 }
+
+

@@ -34,6 +34,7 @@ export const plansData = [
     features: [
       "All ELITE Gyms & PRO gyms",
       "At-center group classes",
+      "Smart workout plans",
       "At-home live workouts",
     ],
   },
