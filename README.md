@@ -1,5 +1,5 @@
 # Fitness Mantra
-<h3>This project is a landing page of a gym website made with React. </h3>
+<h3>This project is a landing page of a gym website made with ReactJs </h3>
 <h4>You can view the demo in the video given below :) </h4>
 
 
