@@ -5,4 +5,4 @@
 
 [Fitness Mantra](https://github.com/ananya-gta/Fitness-Mantra/assets/64327691/5159ab77-629e-4b28-bd32-0e07e968e6d8)
 
-<h6>The project is yet to be deployed.</h6>
+<h6>The project is yet to be deployed</h6>
